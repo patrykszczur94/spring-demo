@@ -13,7 +13,7 @@ public class SpringDemoApplicationTests {
     @Test
     public void contextLoads() {
         int i = 2;
-        Assertions.assertThat(i).isEqualTo(3);
+        Assertions.assertThat(i).isEqualTo(2);
     }
 
 }
